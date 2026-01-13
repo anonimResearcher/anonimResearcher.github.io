@@ -2,7 +2,7 @@
 
 This dataset will be published on Kaggle in unanonymised form. We uploaded this anonymised version for reviewers.
 
-Our project investigates the online economy of Fake Activity Shops (FAS): commercial websites selling fake social-media engagement, such as followers, likes, comments, views, and other inauthentic interactions. This dataset captures websites that **sell fake social-media engagement** (“FakeActivity”). Each row represents one domain/snapshot. We identified **≈2000** Fake Activity Shops (FAS) across **24** European countries. Using LLM-based classifiers and extraction agents achieving **~86%** accuracy for platform/price parsing, the project collects detailed metrics on each shop’s WHOIS/DNS/hosting configuration, site structure, platform-specific price indicators, payment methods, technology stack, search-engine discoverability, and multiple security and reputation signals.
+Our project investigates the online economy of Fake Activity Shops (FAS): commercial websites selling fake social-media engagement, such as followers, likes, comments, views, and other inauthentic interactions. This dataset captures websites that **sell fake social-media engagement** (“FakeActivity”). Each row represents one domain/snapshot. We identified **≈2000** and sucesfully extracted metrics from **881** Fake Activity Shops (FAS) across **24** European countries. Using LLM-based classifiers and extraction agents achieving **~86%** accuracy for platform/price parsing, the project collects detailed metrics on each shop’s WHOIS/DNS/hosting configuration, site structure, platform-specific price indicators, payment methods, technology stack, search-engine discoverability, and multiple security and reputation signals.
 
 ## Schema of FAS_data.csv
 
