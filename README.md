@@ -1,4 +1,4 @@
-## Dataset and files for submission "Accountability Gaps in the Fake Follower Market"
+## Dataset and files for anonymous review
 
 This dataset will be published on Kaggle in unanonymised form. We uploaded this anonymised version for reviewers.
 
